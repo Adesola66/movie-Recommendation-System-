@@ -23,10 +23,13 @@ The system processes structured movie datasets and generates personalized recomm
 ## Dataset
 The dataset contains movie metadata and user ratings.
 Features include:
-- Movie titles
+- ID
+- Title
+- OvervieW
 - Genres
-- User ratings
-- User IDs
+- KeywordS
+- Cast
+- Crew
 
 Data preprocessing steps included:
 - Handling missing values
